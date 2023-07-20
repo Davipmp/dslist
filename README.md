@@ -31,17 +31,19 @@ Desenvolvimento do Projeto:
 - Controller, service, repository
 - Padrão DTO
 
-  Perfis de Projeto:
 
-  1. Perfil de desenvolvimento e testes:
+
+  Perfis de Projeto
+
+  Perfil de desenvolvimento e testes:
   - test
   - Banco de Dados H2
 
-  2. Perfil de Homologação/Staging:
+  Perfil de Homologação/Staging:
   - dev
   - Banco de Dados Postgres de homologação
 
-  3. Perfil de produção
+  Perfil de produção
   - prod
   - Banco de Dados Postgres de produção
  
