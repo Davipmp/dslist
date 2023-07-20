@@ -1,26 +1,26 @@
-PROJETO BACK END - LISTA DE JOGOS 
+## PROJETO BACK END - LISTA DE JOGOS 
 
 Esse projeto é um sistema de coleções de jogos, onde o usuário pode estar listando seus jogos preferidos de diferentes temas. 
 Sendo assim, o usuário pode organizar suas coleções de jogos.
 
-Linguagens: 
+## Linguagens: 
 -  JAVA
 -  SQL
 
-FrameWork: 
+## FrameWork: 
 - Spring Boot, Spring Data JPA
 
-Banco de Dados:
+## Banco de Dados:
 - H2
 - Postgresql
 
-Versão do Java: 
+## Versão do Java: 
 - 17
 
-Apache Maven:
+## Apache Maven:
 - 3.1.0
 
-Desenvolvimento do Projeto:                   
+## Desenvolvimento do Projeto:                   
 - Sistemas Web e recursos                - Relacionamentos N-N
 - Cliente/Servidor, HTTP, JSON           - Classe de assossiação, embedded id
 - Padrão Rest para API Web               - Consultas SQL no Spring Data JPA
@@ -33,17 +33,17 @@ Desenvolvimento do Projeto:
 
 
 
-  Perfis de Projeto
+  ## Perfis de Projeto
 
-  Perfil de desenvolvimento e testes:
+  ## Perfil de desenvolvimento e testes:
   - test
   - Banco de Dados H2
 
-  Perfil de Homologação/Staging:
+  ## Perfil de Homologação/Staging:
   - dev
   - Banco de Dados Postgres de homologação
 
-  Perfil de produção
+  ## Perfil de produção
   - prod
   - Banco de Dados Postgres de produção
  
